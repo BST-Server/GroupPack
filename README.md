@@ -155,7 +155,7 @@ Build requires Java 21:
 ./gradlew clean build
 ```
 
-Output JAR will be in `bukkit/build/libs/`.
+Output JAR will be in `target`.
 
 ## License
 
